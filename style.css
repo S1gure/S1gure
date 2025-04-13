@@ -1,0 +1,28 @@
+
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  margin: 0;
+  padding: 2em;
+}
+
+.terminal {
+  max-width: 600px;
+  margin: auto;
+  background-color: #111;
+  padding: 1em;
+  border: 2px solid purple;
+}
+
+h1 {
+  color: violet;
+}
+
+input, button {
+  background-color: #222;
+  color: white;
+  border: 1px solid purple;
+  padding: 0.5em;
+  margin-top: 0.5em;
+}
