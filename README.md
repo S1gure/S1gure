@@ -20,7 +20,7 @@
 </p>
 
 # My Skills (Programming Languages, Frameworks and Tools)
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,react,vue,next,sqlite,mysql,github,vscode,docker,laravel,cakephp,discord,php,git,jquery,aws,vite" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,react,vue,next,sqlite,mysql,github,vscode,docker,laravel,cakephp,discord,php,git,jquery,aws,vite,python,node.js" /> <br /><br />
 
 ※ Another skill and tools: Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
 
