@@ -4,11 +4,11 @@
 ### Please contact me via Discord!
 [Discord: sasebo_sigure](https://discord.com/users/sasebo_shigure)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Masa36940064&show_icons=true&theme=vue-dark)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=S1gure&show_icons=true&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Masa36940064&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S1gure&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Masa36940064&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=S1gure&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![My Twitter Followers](https://badgen.net/twitter/follow/Masa36940064)](https://x.com/sigure_fox_?s=21)
 
