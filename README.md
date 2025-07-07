@@ -2,7 +2,7 @@
 # Japanese trainee engineer (studying hard🔥)
 ### 18-year-old student
 ### Please contact me via Discord!
-[Discord: YourDiscordID](https://discord.com/users/YourDiscordID)
+[Discord: YourDiscordID](https://discord.com/users/sasebo_shigure)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Masa36940064&show_icons=true&theme=vue-dark)
 
@@ -10,13 +10,13 @@
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Masa36940064&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![My Twitter Followers](https://badgen.net/twitter/follow/Masa36940064)](https://twitter.com/Masa36940064)
+[![My Twitter Followers](https://badgen.net/twitter/follow/Masa36940064)](https://x.com/sigure_fox_?s=21)
 
 # NOW TRAINING
 
 <p align="left">
-<a href="https://twitter.com/Masa36940064?s=21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@example.com"/></a>
+<a href="https://x.com/sigure_fox_?s=21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="mailto:sigure.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@example.com"/></a>
 </p>
 
 # My Skills (Programming Languages, Frameworks and Tools)
