@@ -10,7 +10,7 @@
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=S1gure&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![My Twitter Followers](https://badgen.net/twitter/follow/Masa36940064)](https://x.com/sigure_fox_?s=21)
+[![My Twitter Followers](https://badgen.net/twitter/follow/S1gure)](https://x.com/sigure_fox_?s=21)
 
 # NOW TRAINING
 
