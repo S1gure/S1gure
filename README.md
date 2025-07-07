@@ -2,7 +2,7 @@
 # Japanese trainee engineer (studying hard🔥)
 ### 18-year-old student
 ### Please contact me via Discord!
-[Discord: YourDiscordID](https://discord.com/users/sasebo_shigure)
+[Discord: sasebo_sigure](https://discord.com/users/sasebo_shigure)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Masa36940064&show_icons=true&theme=vue-dark)
 
