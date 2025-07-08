@@ -12,7 +12,7 @@
 
 [![My Twitter Followers](https://badgen.net/twitter/follow/S1gure)](https://twitter.com/Sigure_fox_)
 
-# My SNS
+# If you don't have discord, click here!
 
 <p align="left">
 <a href="https://x.com/sigure_fox_?s=21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
